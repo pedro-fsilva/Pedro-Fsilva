@@ -1,6 +1,6 @@
 ## Hi there :wink:
 
-Eu me chhamo Pedro henrique, Sou um Porigramador Front End, Atualmento estou aprendendo e criando Projetos com:
+Eu me chamo Pedro henrique! Sou um Programador Front End, Atualmento estou aprendendo e criando Projetos com:
 <br>
 <br>
 
